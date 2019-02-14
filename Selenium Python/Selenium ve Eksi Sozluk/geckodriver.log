@@ -1,0 +1,188 @@
+1549273371040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.McFuLQ7ZeaUX"
+1549273371551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549273371551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549273373378	Marionette	INFO	Listening on port 52212
+1549273373761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549273387519	Marionette	INFO	Stopped listening on port 52212
+[Child 6216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549273404878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.axS8nSHVlhN3"
+1549273405275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549273405275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549273406983	Marionette	INFO	Listening on port 52387
+1549273407038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549273420266	Marionette	INFO	Stopped listening on port 52387
+[Child 1708, Chrome_ChildThread] WARNING: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 12984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5800
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549273991735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.8DiCMBKjX9em"
+1549273992122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549273992122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549273993511	Marionette	INFO	Listening on port 53450
+1549273993851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549274003529	Marionette	INFO	Stopped listening on port 53450
+[Parent 6280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15028, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 836
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549274066962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.huC22yTl8mWV"
+1549274067347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549274067347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549274068907	Marionette	INFO	Listening on port 53697
+1549274069125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549274081422	Marionette	INFO	Stopped listening on port 53697
+[Parent 9392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 139
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8824, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549275025344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.F6vi3XvWMBkd"
+1549275025746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549275025746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549275027226	Marionette	INFO	Listening on port 55387
+1549275027498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=861, line 972: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=653, line 976: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1488, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1356, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=158, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=845, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=501, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1585, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1520, line 978: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1602, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+[Parent 12840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1204[Child 8924, Chrome_ChildThread] WARNING: pipe error: 10[Parent 12840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 92281549275163310	Marionette	INFO	Stopped listening on port 55387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2148
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+-kemal-ataturk--34712?p=672, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=584, line 972: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1484, line 978: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=504, line 978: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1024, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=195, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1310, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=269, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1011, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549275204692	Marionette	INFO	Stopped listening on port 55738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6476,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1549275587434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OGUZHAN\\AppData\\Local\\Temp\\rust_mozprofile.D2ObdKiFQ8EF"
+1549275587891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549275587891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1549275589595	Marionette	INFO	Listening on port 56559
+1549275589686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=516, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=753, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=804, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=816, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1556, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=835, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1168, line 974: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1500, line 976: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=1257, line 970: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+JavaScript error: https://eksisozluk.com/mustafa-kemal-ataturk--34712?p=92, line 972: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1549275659322	Marionette	INFO	Stopped listening on port 56559
+[Parent 5280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
